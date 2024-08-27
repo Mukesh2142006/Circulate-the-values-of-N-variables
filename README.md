@@ -6,16 +6,19 @@ PC
 Anaconda - Python 3.7
 ## Algorithm: 
 ### Step 1: 
+Get the values from the user
 ### Step 2: 
+Assign the value of variable to a temporary variable
 ### Step 3: 
 Get the value from the user for the number of rotation
 ### Step 4: 
 Using the slicing concept rotate the list
-
 ### Step 5: 
+Print both the values it would be interchanged
 ### Step 6: 
+End the program
 ## Program:
-
+![Screenshot 2024-08-27 150841](https://github.com/user-attachments/assets/0ee9370d-66f2-44ab-bb91-cd767f653626)
 ## Output:
-
+![Screenshot 2024-08-27 150818](https://github.com/user-attachments/assets/f72cf22a-381b-44e0-b7b9-c4f0b594d080)
 ## Result:
