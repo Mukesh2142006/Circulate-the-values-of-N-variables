@@ -19,7 +19,16 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## Program:
-![Screenshot 2024-08-27 150841](https://github.com/user-attachments/assets/0ee9370d-66f2-44ab-bb91-cd767f653626)
+def circulate():
+
+    lst=eval(input())
+    
+    n=int(input())
+    
+    result=lst[n:]+lst[:n]
+    
+    print("After circulating the values are:",result)
+    
 ## Output:
 ![Screenshot 2024-08-27 150818](https://github.com/user-attachments/assets/f72cf22a-381b-44e0-b7b9-c4f0b594d080)
 ## Result:
