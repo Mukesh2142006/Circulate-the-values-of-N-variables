@@ -1,5 +1,5 @@
 ## DATE:
-# Circulate-the-values-of-N-variables
+# EX NO-2 Circulate-the-values-of-N-variables
 ## Aim:
 To write a python program to circulate the n variables using function concept
 ## Equipment’s required:
